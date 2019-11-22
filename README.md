@@ -30,7 +30,7 @@
 
 ![服务器的监听界面](https://github.com/ghuaerm/Linux_chat/blob/master/image/6.png)
 
-## 步骤6：
+### 步骤6：
 最后选择3 exit退出系统，服务器监听到用户退出之后删除该用户，CTRL+C结束程序。
 
 ![用户退出并删除用户](https://github.com/ghuaerm/Linux_chat/blob/master/image/7.png)
